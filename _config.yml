@@ -1,0 +1,4 @@
+markdown: redcarpet
+baseurl: "/planets-of-the-universe" # the subpath of the site, e.g. /planets-of-the-universe
+exclude: ['README.md']
+permalink: pretty
