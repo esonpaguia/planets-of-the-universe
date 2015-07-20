@@ -1,4 +1,4 @@
-* Planets of the Universe
+# Planets of the Universe
 
 A small website derived from Thomas Bradley Jekyll tutorial.
 
